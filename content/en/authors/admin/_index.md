@@ -38,7 +38,7 @@ bio: 제 관심분야는 인공지능, 취약점 분석, 데이터 분석입니�
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:gh.yi@jbnu.ac.kr".
+    link: "mailto:gh.yi@jbnu.ac.kr"
   - icon: twitter
     icon_pack: fab
     link: https://x.com/KimPolar_
