@@ -14,8 +14,8 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+#- name: 전북대학교
+#  url: "https://www.jbnu.ac.kr/web/index.do"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 제 관심분야는 인공지능, 취약점 분석, 데이터 분석입니다.

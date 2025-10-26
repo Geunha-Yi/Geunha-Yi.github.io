@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 이근하
+title: Geunha Yi
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,22 +14,22 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+#- name: JBNU
+#  url: "https://www.jbnu.ac.kr/web/index.do"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 제 관심분야는 인공지능, 취약점 분석, 데이터 분석입니다.
+bio: I interested in Artificial Intelligence, Pentesting, Data Analysis
 
 #interests:
-#- 인공지능
-#- 취약점 분석
-#- 데이터 분석
+#- Artificial Intelligence
+#- Pentesting
+#- Data Analysis
 
 #education:
 #  courses:
-#  - course: 컴퓨터인공지능학부
-#    institution: 전북대학교
-#    year: 2024 - 현재
+#  - course: Computer Science and Artificial Intelligence
+#    institution: JBNU
+#    year: 2024 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,5 +60,5 @@ social:
 #email: ""
 ---
 
-저는 전북대학교의 컴퓨터인공지능학부에 재학중인 이근하입니다. 관심분야는 인공지능, 취약점 분석, 데이터 분석입니다.
-제 이력서를 PDF로 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}다운로드{{< /staticref >}}하세요.
+I am undergraduate student at JBNU CSAI. My interested in Artificial Intelligence, Pentesting, Data Analysis.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resume as a PDF.

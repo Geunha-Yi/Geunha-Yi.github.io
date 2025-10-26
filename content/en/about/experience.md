@@ -22,16 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PUBG 이스포츠 데이터 분석가
-    company: 프리랜서
+  - title: Data Analyst about PUBG
+    company: Freelancer
     company_url: ''
     company_logo: org-x
     location: Korea
     date_start: '2023-06-01'
     date_end: '2024-12-31'
     description: |2-
-        * 데이터 모델링
-        * 데이터 분석
+        * Data Modelling
+        * Data Analysis
 design:
   columns: '1'
 ---

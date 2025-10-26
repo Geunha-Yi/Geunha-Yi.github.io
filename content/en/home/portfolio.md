@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: 인공지능
+    - name: Artificial Intelligence
       tag: AI
-    - name: 취약점 분석
+    - name: Penetration Testing
       tag: PT
-    - name: 데이터 분석
+    - name: Data Analysis
       tag: DA
 
 design:
