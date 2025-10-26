@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: 인공지능
+      tag: AI
+    - name: 취약점 분석
+      tag: PT
+    - name: 데이터 분석
+      tag: DA
 
 design:
   columns: '1'
